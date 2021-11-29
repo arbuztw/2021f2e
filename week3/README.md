@@ -32,5 +32,8 @@ Node.js 版本: v17.1.0
 
 ## 第三方服務
 - OpenStreetMap
+- TDXApi
+  - 車站列表: `/v2/Bus/StopOfRoute/City/`
+  - 到站時間: `/v2/Bus/EstimatedTimeOfArrival/City/`
 
 
