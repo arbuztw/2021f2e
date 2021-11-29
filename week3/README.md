@@ -1,16 +1,14 @@
 # 陪你等公車
 
 Team: 星瓜流連擊
+UI: @austinlaurice
+Frontend: @arbuztw
 
-UI: [@austinlaurice](github.com/austinlaurice)
-
-Frontend: [@arbuztw](github.com/arbuztw)
-
-## 作品說明
+## 專案介紹
 
 本作品為F2E全台公車時刻查詢服務，以簡潔可愛的配色加上帶點童趣的公車logo，撫慰使用者等公車的煩躁，同時結合了多個TDX API和open map，讓使用者可以即時知道各站的位子與公車預估到達時間。
+RWD上，藉由調整地圖的大小，讓使用者不管在什麼裝置上都可以有好的使用體驗。
 
-RWD上，藉由調整地圖的大小，讓使用者不管在什麼裝置上都可以有好的使用體驗。`
 
 ## 系統說明
 
